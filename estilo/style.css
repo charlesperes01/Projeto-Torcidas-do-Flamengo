@@ -109,4 +109,5 @@ footer{
     color: white;
     text-align: center;
     padding: 5px;
+    font-family: var(--fonte-padrao);
 }
